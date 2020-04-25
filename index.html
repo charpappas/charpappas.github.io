@@ -1,8 +1,15 @@
 <html>
   <head>
     <title>Welcome!</title>
+    <script type="text/javascript" src="hello.js"></script>
   </head>
   <body>
     <h1>Hello, World!</h1>
+    <form>
+        <label for="yourname">Your name:</label>
+        <input type="text" id="yourname" name="yourname">
+        <input type="button" value="click" onclick="greet()"/>
+    </form>
+    <p id="demo"></p> 
   </body>
 </html>
