@@ -1,11 +1,11 @@
-body { 
+body{ 
   width: 100%; 
   height: 100%; 
   font-size:30px; 
   font-weight: normal; 
   background-color: #fff;
 }
-.nav {
+.nav{
   width: 350px; 
   height: auto;
   background-color: .bg-gray-dark;  
