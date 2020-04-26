@@ -5,12 +5,12 @@ body{
   font-weight: normal; 
   background-color: #fff;
 }
-.nav{
+nav{
   width: 350px; 
   height: auto;
   background-color: .bg-gray-dark;  
 }
-.nav a{
+nav a{
   text-decoration: none;
   font-size: 50px; 
   font-weight: bold; 
