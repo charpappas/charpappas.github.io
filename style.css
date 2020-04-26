@@ -17,3 +17,19 @@ html, body{
   position: relative;
   overflow-y: auto; 
 }
+.nav{
+  width: 350px; 
+  height: auto;
+  background-color: .bg-gray-dark;  
+}
+.nav a{
+  text-decoration: none;
+  font-size: 28px; 
+  font-weight: bold; 
+  width: 100%; 
+  display: inline-block; 
+} 
+  
+  
+  
+  
