@@ -64,4 +64,20 @@ a.active, .nav a:hover{
     background-color: #7FB3D5; 
     right: 0; 
     top: 10%; 
-    
+}
+.home{ 
+    position: absolute; 
+    right: 0;
+    bottom: -50px; 
+    color: #ffffff; 
+    font-family: Arial; 
+    text-transform: uppercase; 
+} 
+.home h1{ 
+    font-size: 80px; 
+    padding-right: 90px; 
+    border-bottom: 1px solid #ffffff;
+}
+.home h3{
+    font-size: 35px; 
+    padding: 5px 0; 
