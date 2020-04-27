@@ -100,5 +100,10 @@ a.active, .nav a:hover{
 }
 .contact p{ 
     font-size: 30px; 
-    letter-height: 22px; 
+    letter-height: 22px;
+    padding: 90px; 
+    text-color: #000000; 
+    font-color: #000000; 
+    font-size: 20px; 
+    font-family: Arial; 
 }
