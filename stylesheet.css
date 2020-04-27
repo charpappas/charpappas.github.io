@@ -82,3 +82,19 @@ a.active, .nav a:hover{
     font-size: 35px; 
     padding: 5px 0; 
 }
+.contact{
+    display: none; 
+    position: absolute; 
+    right: 0;
+    bottom: -50px; 
+    color: #ffffff; 
+    font-family: Arial; 
+    text-transform: uppercase; 
+}
+.contact p{ 
+    font-size: 30px; 
+    letter-height: 22px; 
+}
+
+
+
