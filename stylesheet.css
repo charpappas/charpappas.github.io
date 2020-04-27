@@ -23,7 +23,6 @@ html, body{
     width: 350px; 
     height: auto;
     position: absolute;
-    background-color: #666666;
     top: 20%;
     left: 0;
 }
@@ -35,8 +34,8 @@ html, body{
     margin: 5px;
     float: left;
     display: inline-block; 
-    background-color: #f6f8fa;
-    color: #f6f8fa; 
+    background-color: #696969;
+    color: #ffffff; 
     line-height: 90px;
     text-align: center; 
 }
