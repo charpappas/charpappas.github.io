@@ -56,7 +56,6 @@ a.active, .nav a:hover{
 .d{ 
     width: 90%;
 }
-
 .content{ 
     position: absolute;
     width: 930px; 
@@ -65,7 +64,16 @@ a.active, .nav a:hover{
     right: 0;
     top: 10%; 
 }
+.home{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #ffffff;
+    font-family: Arial; 
 .home h1{ 
+    font-size: 80px; 
+    padding: 90px; 
+    border-bottom: 1px solid #ffffff;
     position: absolute; 
     right: 0; 
     bottom: 0; 
