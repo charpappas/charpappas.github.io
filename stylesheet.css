@@ -91,7 +91,10 @@ a.active, .nav a:hover{
     position: absolute; 
     right: 0px;
     bottom: 0px; 
-    color: #000000; 
+    padding: 90px; 
+    text-color: #000000; 
+    font-color: #000000; 
+    font-size: 20px; 
     font-family: Arial; 
     text-transform: uppercase; 
 }
