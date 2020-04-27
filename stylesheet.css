@@ -74,9 +74,9 @@ a.active, .nav a:hover{
 .contact{
     display: none; 
     position: absolute; 
-    right: 0;
-    bottom: -50px; 
-    color: #ffffff; 
+    right: 0px;
+    bottom: 0px; 
+    color: #000000; 
     font-family: Arial; 
     text-transform: uppercase; 
 }
@@ -84,6 +84,4 @@ a.active, .nav a:hover{
     font-size: 30px; 
     letter-height: 22px; 
 }
-
-
 
