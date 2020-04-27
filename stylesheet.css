@@ -65,18 +65,13 @@ a.active, .nav a:hover{
     right: 0;
     top: 10%; 
 }
-.home{ 
+.home h1{ 
     position: absolute; 
     right: 0; 
     bottom: 0; 
     color: #000000; 
     font-family: Arial;  
     position: absolute;
-} 
-.home h1{ 
-    font-size: 80px; 
-    padding: 90px; 
-    border-bottom: 1px solid #ffffff;
 }
 .home h3{
     font-size: 35px; 
