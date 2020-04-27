@@ -11,21 +11,29 @@
     <a class="b" href="#">GALLERY</a>
     <a class="c" href="#">CONTACT</a> 
     <a class="d" href="#">LINKS</a>
+  </div> 
+    
+  <div class="content">
+    
+    <div class="home"> 
+      <h1> Charlotte Pappas</h1> 
+      <h3> works in acrylic, pencil, spray paint</h3> 
   
     </div> 
+    
     </div> 
     
 <script type="text/javascript" src="java.js"></script>
 <script type="text/javascript"> 
-   
-   $(document).ready(function(){
+  $(document).ready(function(){
      $('a').click(function(){
          //alert("clicky"); 
        var selected = $(this); 
-       $(a
-     }); 
-   });
-    
+       $('a').removeClass('active');
+       $(selected).addClass('active'); 
+     });
+  });
+    </script>     
     
   </body>
 </html>
