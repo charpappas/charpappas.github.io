@@ -1,22 +1,41 @@
-body{ 
+*{
+    margin: 0;
+    padding: 0:
+}
+html, body{ 
   width: 100%; 
   height: 100%; 
-  font-size:60px; 
+  font-size:14px; 
   font-weight: normal; 
-  background-color: .bg-purple-light;
 }
-nav{
+.background{
+  width: 100%; 
+  height: 100%; 
+  background-image: url();
+  backgound-repeat: no-repeat; 
+  background-size: cover;
+  position: relative; 
+  overflow-y: auto;
+}
+.nav{
   width: 350px; 
   height: auto;
-  background-color: .bg-gray-dark;  
+  position: absolute;
+  top: 20%;
+  left: 0;
 }
-nav a{
+.nav a{
   text-decoration: none;
-  font-size: 70px; 
+  font-size: 28px; 
+  font-family: ;
   font-weight: bold; 
-  font-color: .bg-purple-light; 
   width: 100%; 
+  height: 90px; 
+  margin: 5px;
+  float: left;
   display: inline-block; 
+  background-color:
+  color: white; 
 } 
   
   
