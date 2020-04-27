@@ -58,20 +58,9 @@ a.active, .nav a:hover{
 }
 
 .content{ 
-    position: absolute;
-    width: 930px;
-    height: 500px;
-    background-color: #7FB3D5; 
-    right: 0; 
-    top: 10%; 
 }
 .home{ 
-    position: absolute; 
-    right: 0;
-    bottom: -50px; 
-    color: #ffffff; 
-    font-family: Arial; 
-    text-transform: uppercase; 
+    position: absolute;
 } 
 .home h1{ 
     font-size: 80px; 
