@@ -23,6 +23,7 @@ html, body{
     width: 350px; 
     height: auto;
     position: absolute;
+    background-color: #666666;
     top: 20%;
     left: 0;
 }
