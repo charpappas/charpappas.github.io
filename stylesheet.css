@@ -59,6 +59,11 @@ a.active, .nav a:hover{
 
 .content{ 
     position: absolute;
+    width: 930px; 
+    min-height: 500px; 
+    height:auto;
+    right: 0;
+    top: 10%; 
 }
 .home{ 
     position: absolute; 
