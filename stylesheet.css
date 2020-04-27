@@ -68,6 +68,7 @@ a.active, .nav a:hover{
 .home{ 
     position: absolute; 
     right: 0; 
+    bottom: 0; 
     color: #000000; 
     font-family: Arial;  
     position: absolute;
