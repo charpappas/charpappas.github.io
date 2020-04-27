@@ -75,7 +75,7 @@ a.active, .nav a:hover{
 } 
 .home h1{ 
     font-size: 80px; 
-    padding-right: 90px; 
+    padding-right: 0px; 
     border-bottom: 1px solid #ffffff;
 }
 .home h3{
