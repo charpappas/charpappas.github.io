@@ -7,10 +7,10 @@
   <div class="background">
     
   <div class="nav"> 
-    <a class="a" href="#">HOME</a>
-    <a class="b" href="#">CONTACT</a>
-    <a class="c" href="#">GALLERY</a> 
-    <a class="d" href="#">LINKS</a>
+    <a class="a" href="#">home</a>
+    <a class="b" href="#">contact</a>
+    <a class="c" href="#">gallery</a> 
+    <a class="d" href="#">links</a>
   </div> 
     
   <div class="content">
@@ -28,31 +28,7 @@
     
 <script type="text/javascript" src="java.js"></script>
 <script type="text/javascript"> 
-  $(document).ready(function(){
-     $('a').click(function(){
-         //alert("clicky"); 
-       var selected = $(this); 
-       $('a').removeClass('active');
-       $(selected).addClass('active'); 
-     });
-   
-     var $a = $('.a'), 
-     $b = $('.b'), 
-     $c = $('.c'), 
-     $d = $('.d'), 
-     $home = $('.home'), 
-     $contact = $('.contact'), 
-     $gallery = $('.gallery'), 
-     $links = $('.links'), 
-         
-     $a.click(function(){ 
-       $home.fadeIn();
-       $contact.fadeOut();
-       $gallery.fadeOut(); 
-       $links.fadeOut(); 
-        
 
-  });
     </script>     
     
   </body>
