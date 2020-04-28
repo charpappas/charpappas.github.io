@@ -9,13 +9,13 @@
 
   var scriptElm = doc.createElement('script');
   scriptElm.setAttribute('type', 'module');
-  scriptElm.src = https://www.instagram.com/666verified/ionicons.esm.js;
+  scriptElm.src = https://www.instagram.com/666verified;
   doc.head.appendChild(scriptElm);
   warn.push(scriptElm.outerHTML);
 
   scriptElm = doc.createElement('script');
   scriptElm.setAttribute('nomodule', '');
-  scriptElm.src = https://www.instagram.com/666verified/ionicons.js;
+  scriptElm.src = https://www.instagram.com/666verified;
   doc.head.appendChild(scriptElm);
   warn.push(scriptElm.outerHTML);
 
