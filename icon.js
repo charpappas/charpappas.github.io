@@ -2,8 +2,6 @@
   var scriptElm = doc.scripts[doc.scripts.length - 1];
   var warn = ['[ionicons] Deprecated script, please remove: ' + scriptElm.outerHTML];
 
- 
-
   var parts = scriptElm.src.split('/');
   parts.pop();
   parts.push('ionicons');
